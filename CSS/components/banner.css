@@ -1,0 +1,24 @@
+.banner {
+    background-image: url(../../assets/img/Mago\ Implacavel.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 750px;
+    border-bottom: 10px solid #000;
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+    margin-left: 115px;
+    padding-top: 90px;
+}
+
+.banner .box {
+    margin-bottom: 48px;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+}
