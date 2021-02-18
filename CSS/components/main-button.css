@@ -1,5 +1,5 @@
-.button{
-    background-color: #9D4EDD;
+.main-button{
+    background-color: #F25A70;
     display: inline-block;
     height: 60px ;
     line-height: 60px;
@@ -13,6 +13,6 @@
     text-decoration: none;
 }
 
-.button:hover{
+.main-button:hover{
     transform: scale(1.08);
 }

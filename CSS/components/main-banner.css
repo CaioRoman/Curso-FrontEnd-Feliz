@@ -1,12 +1,12 @@
-.banner {
-    background-image: url(../../assets/img/Mago\ Implacavel.png);
+.main-banner {
+    background-image: url(../../assets/img/imgFundo.png);
     background-repeat: no-repeat;
     background-size: 100%;
-    height: 750px;
+    height: 740px;
     border-bottom: 10px solid #000;
 }
 
-.banner .wrapper {
+.main-banner .wrapper {
     display: flex;
     flex-direction: column;
     width: 640px;
@@ -14,11 +14,11 @@
     padding-top: 90px;
 }
 
-.banner .box {
+.main-banner .main-box {
     margin-bottom: 48px;
 }
 
-.banner .navigation {
+.main-banner .navigation {
     display: flex;
     justify-content: space-around;
 }
